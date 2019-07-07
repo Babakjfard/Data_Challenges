@@ -3,4 +3,4 @@ This is a repository for different data challenges that I might face. Most of th
 
 [The Clairvoyant Constructor](https://nbviewer.jupyter.org/github/Babakjfard/Data_Challenges/blob/master/Fard_Babak_DC5_PriceForecasting.ipynb)
 
-https://nbviewer.jupyter.org/github/adress_of_the_ipynb file
+[Breast Cancer Detection](https://nbviewer.jupyter.org/github/Babakjfard/Data_Challenges/blob/master/Fard_Babak_DC6_Breast_Cancer.ipynb)
